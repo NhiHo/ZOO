@@ -1,0 +1,9 @@
+D:\ZOO\ZOO\bin\Debug\ZOO.exe.config
+D:\ZOO\ZOO\obj\Debug\ZOO.csprojResolveAssemblyReference.cache
+D:\ZOO\ZOO\obj\Debug\ZOO.Form1.resources
+D:\ZOO\ZOO\obj\Debug\ZOO.Properties.Resources.resources
+D:\ZOO\ZOO\obj\Debug\ZOO.csproj.GenerateResource.Cache
+D:\ZOO\ZOO\bin\Debug\ZOO.exe
+D:\ZOO\ZOO\bin\Debug\ZOO.pdb
+D:\ZOO\ZOO\obj\Debug\ZOO.exe
+D:\ZOO\ZOO\obj\Debug\ZOO.pdb
